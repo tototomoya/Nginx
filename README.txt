@@ -1,0 +1,1 @@
+jq_commandとLaravel_GCEのプログラムをgceインスタンス上に構築したNGINXサーバーで動かしています。
